@@ -1,5 +1,0 @@
-f = open('Question 1/test_output', 'r')
-lines = f.read()
-print(lines)
-print(type(lines))
-f.close()
