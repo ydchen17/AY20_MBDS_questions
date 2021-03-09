@@ -1,7 +1,7 @@
 # AY20_MBDS_questions
 
-Answers to interview questions for the MSc Biomedical Data Science Programme at NTU singapore. So, this is a bit less biology-related than I expected, but more programming-heavy, especially math and algorithms-heavy for me, since I haven't been educated in these. 
+Here are the answers to interview questions for the MSc Biomedical Data Science Programme at NTU singapore. I have tried all questions but left Question 8 unfinished, since I am not very familiar with the chemistry and math involved in the question. 
 
-Most of the code are written in Python within Jupyter Notebook, although some R is used as well. So, there might be some problem if you are to run all code without IRkernel. The notebook allows some explanations added to the code while I was writing the code. 
+Most of the code is written in Python within Jupyter Notebook, although some R is used. Therefore, there might be some problem if you are to run all code without [IRkernel](https://github.com/IRkernel/IRkernel), which allows running R in Jupyter Notebook. The notebook allows some explanations added to the code while I was writing the code. 
 
-I have tried all questions but left finish Question 8 half-done, since I am not quite familiar with the settings of the question. 
+Overall, this is a bit less biology-related than I expected, but more programming-heavy, especially math and algorithms-heavy for me, since I haven't been educated too much in these after high school. 
